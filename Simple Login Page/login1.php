@@ -31,7 +31,7 @@ else{
 
 <fieldset>
 	<legend>HTML 5 Form</legend>
-<form action="form2.php" method="POST"> 
+<form action="login2.php" method="POST"> 
 <label for="Username">Username:</label>
 <input id="Username" type="text" name="Username"> <br> <br>
 <label for="Password">Password: </label>
